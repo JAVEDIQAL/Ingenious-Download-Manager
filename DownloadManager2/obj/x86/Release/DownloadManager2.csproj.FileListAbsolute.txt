@@ -1,0 +1,8 @@
+C:\Users\Engineer\Documents\Visual Studio 2010\Projects\DownloadManager2\DownloadManager2\bin\Release\DownloadManager2.exe
+C:\Users\Engineer\Documents\Visual Studio 2010\Projects\DownloadManager2\DownloadManager2\bin\Release\DownloadManager2.pdb
+C:\Users\Engineer\Documents\Visual Studio 2010\Projects\DownloadManager2\DownloadManager2\obj\x86\Release\DownloadManager2.csprojResolveAssemblyReference.cache
+C:\Users\Engineer\Documents\Visual Studio 2010\Projects\DownloadManager2\DownloadManager2\obj\x86\Release\DownloadManager2.Form1.resources
+C:\Users\Engineer\Documents\Visual Studio 2010\Projects\DownloadManager2\DownloadManager2\obj\x86\Release\DownloadManager2.Properties.Resources.resources
+C:\Users\Engineer\Documents\Visual Studio 2010\Projects\DownloadManager2\DownloadManager2\obj\x86\Release\DownloadManager2.csproj.GenerateResource.Cache
+C:\Users\Engineer\Documents\Visual Studio 2010\Projects\DownloadManager2\DownloadManager2\obj\x86\Release\DownloadManager2.exe
+C:\Users\Engineer\Documents\Visual Studio 2010\Projects\DownloadManager2\DownloadManager2\obj\x86\Release\DownloadManager2.pdb

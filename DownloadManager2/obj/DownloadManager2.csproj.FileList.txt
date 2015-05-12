@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DownloadManager2.csproj.GenerateResource.Cache
+bin\Debug\DownloadManager2.exe
+bin\Debug\DownloadManager2.pdb
+obj\Debug\DownloadManager2.Form1.resources
+obj\Debug\DownloadManager2.Properties.Resources.resources
+obj\Debug\DownloadManager2.exe
+obj\Debug\DownloadManager2.pdb
